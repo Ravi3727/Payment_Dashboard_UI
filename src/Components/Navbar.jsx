@@ -1,6 +1,6 @@
 import React from 'react'
 import DownArrow from '../assets/DownArrow.svg';
-import logo from '../assets/image.png';
+import logo from '../assets/Image.png';
 import home from '../assets/Home.svg';
 import order from '../assets/Order.svg';
 import product from '../assets/Product.svg';
